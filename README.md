@@ -3,6 +3,10 @@ Yet another technology enthusiast who believes in open, free, and diverse world.
 
 Feel free to contact me, even if you just want to chat. Simplified Chinese is preferred, but English is also acceptable (even though my spoken English is not very good).
 
+## Sponsor
+For users of Alipay or WeChat Pay, simply use [Afdian](https://afdian.com/a/alampy).  
+For others, please contact me to receive a detailed solution.
+
 ## Contact Me
 Use PGP key to encrypt messages if necessary:
 - [![Keybase PGP](https://img.shields.io/keybase/pgp/arcticlampyrid)](https://keybase.io/arcticlampyrid/pgp_keys.asc)
